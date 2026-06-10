@@ -8,4 +8,4 @@ Initial Splunk Enterprise deployment in a local lab environment.
 * Configuration steps
 * Verification and testing
 
-See `Report.pdf` for detailed documentation, commands, screenshots, and notes.
+See [Report.pdf](Report.pdf) for detailed documentation, commands, screenshots, and notes.
