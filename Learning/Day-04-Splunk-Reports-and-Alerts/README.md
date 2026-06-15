@@ -1,5 +1,4 @@
-``` markdown
-# Day 04 - Splunk Reports and Alerts
+## Day 04 - Splunk Reports and Alerts
 
 Mastery of Splunk reporting and alerting mechanisms for automated data monitoring and incident response.
 
